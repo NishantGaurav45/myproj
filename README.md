@@ -1,3 +1,3 @@
 # myproj
 This is my repo
-Author Nishant gaurav
+Author Nishant sharma
